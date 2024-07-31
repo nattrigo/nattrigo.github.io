@@ -11,7 +11,7 @@ last_name: Ferreira Trigo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:trigo.natalia@fgv.edu.br'
     label: E-mail Me
-  - icon: brands/x 
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x 
+   # url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+   # url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/nattrigo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: www.linkedin.com/in/natália-trigo
+  #- icon: academicons/google-scholar
+   # url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0569-3761
 
 interests:
   - Health Economics
