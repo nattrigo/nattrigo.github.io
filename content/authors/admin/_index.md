@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/nattrigo
   - icon: brands/linkedin
-    url: www.linkedin.com/in/natália-trigo
+    url: https://www.linkedin.com/in/nat%C3%A1lia-trigo/
   #- icon: academicons/google-scholar
    # url: https://scholar.google.com/
   - icon: academicons/orcid
