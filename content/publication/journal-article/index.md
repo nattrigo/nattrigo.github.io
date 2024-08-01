@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Applied Economics, 56(21), 2520–2543*"
 publication_short: ""
 
 abstract: This study analyzes two phenomena regarding the inflation of the poor and rich. Firstly, considering that imported inflation is a source of inflation, we investigate whether the harmful effect of imported inflation is higher for the poor than the rich. Secondly, assuming that central bank credibility helps keep inflation under control and that the poor are more susceptible to the damaging effect of the inflation tax, we evaluate whether the credibility is more beneficial to the poor. Based on data from the Brazilian economy, the findings indicate a higher effect of imported inflation on food inflation and poor households. In contrast, central bank credibility effectively reduces inflation for the poor.
