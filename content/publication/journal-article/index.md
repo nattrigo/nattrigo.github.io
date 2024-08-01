@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-01-01T00:00:00Z"
+date: "2024-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,9 +26,9 @@ abstract: This study analyzes two phenomena regarding the inflation of the poor 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
 # links:
 # - name: ""
