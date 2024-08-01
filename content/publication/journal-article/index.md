@@ -33,7 +33,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1080/00036846.2023.2192031
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
