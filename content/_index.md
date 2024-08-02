@@ -39,6 +39,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        feature_only:true
     design:
       view: citation
  # - block: markdown
@@ -56,11 +57,11 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research
+      title: Publications
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
         
     design:
       view: article-grid
