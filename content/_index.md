@@ -53,14 +53,16 @@ sections:
       #  Please reach out to collaborate 😃
    # design:
    #   columns: '1'
-  - block: collection
-    id: research
-    content:
-      title: Research
-      filters:
-        folders:
-          - publication
-        featured_only: true
+   # se quiser uma seção separada de recent publications vs all research (alterar em cima para recent publications e tirar do comentário essa próx)
+   # por enquanto, deixar comentado - tudo numa seção só de cima (research)
+  #- block: collection
+    #id: research
+   # content:
+    #  title: Research
+     # filters:
+       # folders:
+       #   - publication
+       # featured_only: true
         
     design:
       view: article-grid
