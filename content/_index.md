@@ -39,7 +39,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        feature_only:true
+        feature_only: true
     design:
       view: citation
  # - block: markdown
