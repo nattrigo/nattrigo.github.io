@@ -1,6 +1,6 @@
 ---
 title: Macroeconomics I
-summary: Teaching Assistant - FGV EPGE (Undergraduate)
+summary: Teaching Assistant at FGV EPGE (Undergraduate)
 date: 2023-02-01
 type: docs
 math: false
