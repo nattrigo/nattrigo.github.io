@@ -53,11 +53,10 @@ sections:
       #  Please reach out to collaborate 😃
    # design:
    #   columns: '1'
-   
   - block: collection
     id: research
     content:
-     title: Research
+      title: Research
       filters:
         folders:
           - publication
