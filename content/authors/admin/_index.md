@@ -24,7 +24,7 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: EPGE Brazilian School of Economics and Finance
+  - name: EPGE Brazilian School of Economics and Finance (FGV EPGE)
     url: https://epge.fgv.br/
 
 # Social network links
@@ -183,4 +183,4 @@ interests:
 
 ## About Me
 
-I am third-year PhD Candidate in Economics at EPGE Brazilian School of Economics and Finance.
+I am third-year PhD Candidate in Economics at EPGE Brazilian School of Economics and Finance (FGV EPGE).
