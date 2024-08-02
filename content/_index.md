@@ -33,7 +33,7 @@ sections:
           
   - block: collection
     content:
-      title: Recent Publications
+      title: Research
       text: ""
       filters:
         folders:
@@ -61,7 +61,7 @@ sections:
         folders:
           - publication
         featured_only: true
-        exclude_featured: false
+        
     design:
       view: article-grid
       columns: 1
