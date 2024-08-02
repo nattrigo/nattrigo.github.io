@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Featured Publications
+      title: Research
       filters:
         folders:
           - publication
