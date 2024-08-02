@@ -39,7 +39,6 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        feature_only: true
     design:
       view: citation
  # - block: markdown
@@ -61,7 +60,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
         
     design:
       view: article-grid

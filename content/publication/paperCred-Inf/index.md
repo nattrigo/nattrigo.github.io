@@ -29,7 +29,7 @@ summary: de Mendonça, H. F., & Trigo, N. F. (2023). Applied Economics, 56(21), 
 #tags:
     
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
