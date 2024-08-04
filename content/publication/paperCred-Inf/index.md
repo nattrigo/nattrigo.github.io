@@ -1,8 +1,8 @@
 ---
 title: "What is the effect of imported inflation and central bank credibility on the poor and rich?"
 authors:
-- admin
 - de Mendonça, H. F
+- admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
