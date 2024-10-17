@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/nattrigo
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nat%C3%A1lia-trigo/
-  #- icon: academicons/google-scholar
-   # url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: [https://scholar.google.com/](https://scholar.google.com/citations?hl=pt-BR&user=YT7hdTwAAAAJ)
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0569-3761
 
