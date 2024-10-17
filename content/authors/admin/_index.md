@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nat%C3%A1lia-trigo/
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?hl=pt-BR&user=YT7hdTwAAAAJ)
+    url: https://scholar.google.com/citations?user=YT7hdTwAAAAJ&hl=pt-BR
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0569-3761
 
