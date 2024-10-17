@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Natália Trigo
+title: Natália Ferreira Trigo
 
 # Name pronunciation (optional)
 name_pronunciation: 
