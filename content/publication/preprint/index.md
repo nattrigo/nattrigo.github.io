@@ -24,8 +24,6 @@ abstract: We study the effects of high-intensity rains (HIR) on the day of birth
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- high-intensity rains
-- commuting costs
 - neonatal health
 - health units
 
