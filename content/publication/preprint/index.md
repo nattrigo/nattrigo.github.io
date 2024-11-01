@@ -31,7 +31,7 @@ featured: true
 
 links:
 - name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007086
+  url: https://ssrn.com/abstract=5007086
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
