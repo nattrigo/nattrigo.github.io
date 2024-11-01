@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Publications
+      title: Papers
       filters:
         folders:
           - publication
@@ -64,7 +64,7 @@ sections:
         
     design:
       view: article-grid
-      columns: 1
+      columns: 2
     
  # - block: collection
    # id: talks
