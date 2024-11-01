@@ -23,9 +23,8 @@ abstract: We study the effects of high-intensity rains (HIR) on the day of birth
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- neonatal health
-- health units
+#tags:
+#-
 
 # Display this page in the Featured widget?
 featured: true
