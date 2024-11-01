@@ -2,7 +2,7 @@
 title: "The Impact of High-Intensity Rains on Neonatal Health"
 authors:
 - admin
-- [Pedro H. Chaves Maia][def]
+- [**Pedro H. Chaves Maia**](https://unsplash.com/photos/s9CC2SKySJM)
 date: "2024-10-31T00:00:00Z"
 doi: ""
 
