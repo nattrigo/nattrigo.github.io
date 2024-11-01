@@ -29,7 +29,9 @@ tags:
 - neonatal health
 - health units
 
+# Display this page in the Featured widget?
 featured: true
+
 links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007086
