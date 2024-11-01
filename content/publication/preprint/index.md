@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study the effects of high-intensity rains (HIR) on the day of birth on newborn health in the city of Rio de Janeiro, Brazil. We merge geodata from rainfall stations with administrative birth certificate records, creating a uniquely rich dataset covering the universe of births and HIR in Rio de Janeiro from 2006-2019. We find that 1) HIRs increase the likelihood of "low" and "very low" Apgar scores at the 5-minute mark by, at most, 29% and 40%, respectively; 2) the negative impact of HIR on Apgar scores is concentrated in health units affiliated with the SUS (Unified Health System), and 3) these adverse health effects are concentrated in units close to flood points.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,13 +35,13 @@ links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007086
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
