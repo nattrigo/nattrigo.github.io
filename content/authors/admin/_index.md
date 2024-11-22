@@ -49,7 +49,7 @@ profiles:
 interests:
   - Health Economics
   - Labor Economics
-  - Family Economics
+
 
 #education:
  # - area: PhD in Economics
