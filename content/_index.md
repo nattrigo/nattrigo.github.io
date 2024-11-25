@@ -26,9 +26,9 @@ sections:
           # Add your image background to `assets/media/`.
           filename: praia_contraste.jpeg # this is the image backgroup
           filters:
-            brightness: 2.0
+            brightness: 0.0
           size: cover
-          position: center
+          position: top
           parallax: false
           
   - block: collection
