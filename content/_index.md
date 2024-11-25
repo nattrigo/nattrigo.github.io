@@ -20,6 +20,7 @@ sections:
         url: uploads/resume.pdf # where the cv goes
     design:
       css_class: dark
+      color: black
       background:
         color: black
         image:
