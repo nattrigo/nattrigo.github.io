@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf # where the cv goes
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: light
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: praia.svg # this is the image backgroup
