@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: praia2.svg # this is the image backgroup
+          filename: praia2_contraste.jpeg # this is the image backgroup
           filters:
-            brightness: -5.0
+            brightness: 0.0
           size: cover
           position: center
           parallax: false
