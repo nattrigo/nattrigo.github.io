@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: praia.svg # this is the image backgroup
           filters:
-            brightness: 1.0
+            brightness: 0.0
           size: cover
           position: top
           parallax: false
