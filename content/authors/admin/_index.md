@@ -183,4 +183,4 @@ interests:
 
 ## About Me
 
-I am fourth-year PhD Candidate in Economics at EPGE Brazilian School of Economics and Finance (FGV EPGE).
+I am a fourth-year PhD Candidate in Economics at EPGE Brazilian School of Economics and Finance (FGV EPGE).
