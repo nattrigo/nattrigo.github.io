@@ -2,7 +2,7 @@
 title: LAERE 2025
 
 event: The Congress of the Latin American and the Caribbean Association of Environmental and Resource Economists
-event_url: https://live.eventtia.com/en/congress-laere/Home/
+event_url: ''
 
 location: Universidad de Los Andes
 address:
@@ -12,9 +12,7 @@ address:
   postcode: ''
   country: Colombia
 
-summary: Presentation of the paper 'The Impact of High-Intensity Rains on Neonatal Health'
-
-
+summary: Presentation of the paper The Impact of High-Intensity Rains on Neonatal Health
 abstract: Session II-B Parallel sessions: Climate Change and Health 
 
 # Talk start and end times.
