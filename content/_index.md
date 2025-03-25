@@ -73,6 +73,7 @@ sections:
       filters:
         folders:
           - event
+          exclude_featured: false
       design:
       view: article-grid
       columns: 1
