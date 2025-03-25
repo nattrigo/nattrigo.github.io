@@ -6,16 +6,16 @@ event_url: https://live.eventtia.com/en/congress-laere/Home/
 
 location: Universidad de Los Andes
 address:
-  street: 
+  street: ''
   city: Bogotá
-  region: 
-  postcode:
+  region: ''
+  postcode: ''
   country: Colombia
 
-summary: II-B Parallel sessions: Climate Change and Health 
-#- Presentation of 'The Impact of High-Intensity Rains on Neonatal Health'
+summary: Presentation of the paper 'The Impact of High-Intensity Rains on Neonatal Health'
 
-# abstract: 
+
+abstract: Session II-B Parallel sessions: Climate Change and Health 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -35,7 +35,7 @@ tags: []
 featured: false
 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -43,10 +43,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-#url_code: 'https://github.com'
-#url_pdf: ''
-#url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
