@@ -2,18 +2,18 @@
 title: LAERE 2025
 
 event: The Congress of the Latin American and the Caribbean Association of Environmental and Resource Economists
-event_url: ''
+event_url: https://live.eventtia.com/en/congress-laere/Home/
 
 location: Universidad de Los Andes
 address:
-  street: ''
-  city: Bogotá
-  region: ''
-  postcode: ''
-  country: Colombia
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: Presentation of the paper The Impact of High-Intensity Rains on Neonatal Health
-abstract: Session II-B Parallel sessions: Climate Change and Health 
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
