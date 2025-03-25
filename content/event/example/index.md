@@ -8,9 +8,10 @@ location: Universidad de Los Andes
 address:
   street: Cra 1 E \#19a-70
   city: Bogotá
+  country: Colombia
   #region: CA
   #postcode: '94305'
-  country: Colombia
+  
 
 summary: Presentation of the paper The Impact of High-Intensity Rains on Neonatal Health
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
