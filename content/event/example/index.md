@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: LAERE 2025
 
-event: Hugo Blox Builder Conference
+event: The Congress of the Latin American and the Caribbean Association of Environmental and Resource Economists
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
