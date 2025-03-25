@@ -69,12 +69,11 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
-          exclude_featured: false
-      design:
+            design:
       view: article-grid
       columns: 1
 
