@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: praia_2025.jpg # this is the image backgroup
           filters:
-            brightness: 0.0
+            brightness: -1.0
           size: cover
           position: center
           parallax: false
