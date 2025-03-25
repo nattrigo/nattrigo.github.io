@@ -13,7 +13,7 @@ address:
   country: Colombia
 
 summary: II-B Parallel sessions: Climate Change and Health 
-- Presentation of 'The Impact of High-Intensity Rains on Neonatal Health'
+#- Presentation of 'The Impact of High-Intensity Rains on Neonatal Health'
 
 # abstract: 
 
