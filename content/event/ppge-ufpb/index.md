@@ -1,14 +1,14 @@
 ---
-title: LAERE 2025
+title: Seminários PPGE-UFPB
 
-event: The Congress of the Latin American and the Caribbean Association of Environmental and Resource Economists
+event: Seminários do Programa de Pós graduação  em Economia- UFPB
 event_url: https://live.eventtia.com/en/congress-laere/Home/
 
-location: Universidad de Los Andes
+location: Universidade Federal da Paraíba
 address:
-  street: Cra 1 E \#19a-70
-  city: Bogotá
-  country: Colombia
+  street: 
+  city: João Pessoa
+  country: Brasil
   #region: CA
   #postcode: '94305'
   
@@ -18,12 +18,12 @@ summary: Presentation of the paper The Impact of High-Intensity Rains on Neonata
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-03-20T15:30:00Z'
-date_end: '2025-03-20T16:45:00Z'
+date: '2025-04-11T10:00:00Z'
+date_end: '2025-04-11T11:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-25T00:00:00Z'
+publishDate: '2025-04-9T00:00:00Z'
 
 authors:
   - admin
@@ -60,5 +60,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - ppge-ufpb
 ---
