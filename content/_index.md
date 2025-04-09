@@ -37,7 +37,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - research
         exclude_featured: false
     design:
       view: citation
@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Papers
+      title: Publications
       filters:
         folders:
           - publication
