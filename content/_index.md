@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: praia_2025.jpg # this is the image backgroup
+          filename: praia_2023v2.jpg # this is the image backgroup
           filters:
-            brightness: -1.1
+            brightness: -1.o
           size: cover
           position: center
           parallax: false
