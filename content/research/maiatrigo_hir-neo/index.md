@@ -1,5 +1,5 @@
 ---
-title: "The Impact of High-Intensity Rains on Neonatal Health"
+title: "Urban Resilience to Weather: The Impacts of Rainstorms on Neonatal Health"
 authors:
 - admin
 - Pedro H. Chaves Maia
@@ -24,7 +24,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: We study the effects of high-intensity rains (HIR) on the day of birth on newborn health in the city of Rio de Janeiro, Brazil. We merge geodata from rainfall stations with administrative birth certificate records, creating a uniquely rich dataset covering the universe of births and HIR in Rio de Janeiro from 2006-2019. We find that 1) HIRs increase the likelihood of "low" and "very low" Apgar scores at the 5-minute mark by, at most, 29% and 40%, respectively; 2) the negative impact of HIR on Apgar scores is concentrated in health units affiliated with the SUS (Unified Health System), and 3) these adverse health effects are concentrated in units close to flood points.
+abstract: We examine how high-intensity rains (HIR) on the day of birth affect neonatal health and assess the role of urban infrastructure in mitigating these impacts. We leverage data from administrative birth records between 2006 and 2019 in the second-largest city in Brazil. Our findings show that HIR increases the likelihood of newborns' poor clinical status at 5 minutes after birth by at most 40%. Notably, these effects are concentrated in public health units and flood-prone areas. These results highlight the importance of drainage improvements, which mitigate the severe newborn health consequences by 66%.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
