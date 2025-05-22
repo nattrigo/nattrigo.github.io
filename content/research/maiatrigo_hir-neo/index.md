@@ -5,7 +5,6 @@ authors:
 - Pedro H. Chaves Maia
 author_notes:
 - FGV EPGE
-- https://sites.google.com/view/phchavesmaia/home
 date: "2024-10-31T00:00:00Z"
 doi: ""
 
@@ -21,7 +20,7 @@ publishDate: "2024-11-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Urban Resilience to Weather: The Impacts of Rainstorms on Neonatal Health"
 publication_short: ""
 
 abstract: We examine how high-intensity rains (HIR) on the day of birth affect neonatal health and assess the role of urban infrastructure in mitigating these impacts. We leverage data from administrative birth records between 2006 and 2019 in the second-largest city in Brazil. Our findings show that HIR increases the likelihood of newborns' poor clinical status at 5 minutes after birth by at most 40%. Notably, these effects are concentrated in public health units and flood-prone areas. These results highlight the importance of drainage improvements, which mitigate the severe newborn health consequences by 66%.
