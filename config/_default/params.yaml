@@ -10,7 +10,7 @@ appearance:
   theme_day: cofee
   theme_night: minimal
   font: minimal
-  font_size: XL
+  font_size: xl
   
 # SEO
 marketing:
