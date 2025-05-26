@@ -7,7 +7,7 @@
 appearance:
   mode: light
   color: blue
-  theme_day: dark
+  theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: xl
