@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0569-3761
 
-## interests:
+interests:
   - Health Economics
   - Labor Economics
   - Development 
