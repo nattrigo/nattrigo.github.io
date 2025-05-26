@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: lagoa.jpg # this is the image backgroup
+          filename: lagoa2.jpg # this is the image backgroup
           filters:
-            brightness: -1.0
+            brightness: -0.0
           size: cover
           position: center
           parallax: false
