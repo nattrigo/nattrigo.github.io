@@ -6,11 +6,11 @@
 # Appearance
 appearance:
   mode: light
-  color: blue
-  theme_day: minimal
+  #color: blue
+  theme_day: cofee
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: XL
   
 # SEO
 marketing:
