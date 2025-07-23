@@ -1,5 +1,5 @@
 ---
-title: "Urban Resilience to Weather: The Impacts of Rainstorms on Neonatal Health. _Submitted_"
+title: "Urban Resilience to Weather: The Impacts of Rainstorms on Neonatal Health."
 authors:
 - admin
 - Pedro H. Chaves Maia
