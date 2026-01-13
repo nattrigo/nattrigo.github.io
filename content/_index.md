@@ -17,14 +17,14 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf # where the cv goes
+        url: resume.pdf # where the cv goes
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: praia_2026.jpeg # this is the image backgroup
+          filename: praia_2026.jpg # this is the image backgroup
           filters:
             brightness: -0.0
           size: cover
