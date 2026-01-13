@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: lagoa2.jpg # this is the image backgroup
+          filename: praia_2026.jpeg # this is the image backgroup
           filters:
             brightness: -0.0
           size: cover
