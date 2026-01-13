@@ -28,7 +28,7 @@ sections:
           filters:
             brightness: -0.0
           size: cover
-          position: 50% 30%
+          position: center bottom
           parallax: false
           
   - block: collection
