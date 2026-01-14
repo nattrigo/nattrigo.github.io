@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: darker_praia_gibi2.png # this is the image backgroup
+          filename: darker_praia_gibi.png # this is the image backgroup
           filters:
             brightness: 0.0
           size: cover
