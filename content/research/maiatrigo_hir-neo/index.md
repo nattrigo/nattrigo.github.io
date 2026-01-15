@@ -1,5 +1,5 @@
 ---
-title: "Urban Resilience to Weather: The Impacts of Rainstorms on Neonatal Health."
+title: "Urban Resilience to Weather: The Impacts of Rainstorms on Neonatal Health"
 authors:
 - admin
 - Pedro H. Chaves Maia
@@ -20,7 +20,7 @@ publishDate: "2024-11-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: "*Submitted*"
 publication_short: ""
 
 abstract: We examine how high-intensity rains (HIR) on the day of birth affect neonatal health and assess the role of urban infrastructure in mitigating these impacts. We leverage data from administrative birth records between 2006 and 2019 in the second-largest city in Brazil. Our findings show that HIR increases the likelihood of newborns' poor clinical status at 5 minutes after birth by at most 40%. Notably, these effects are concentrated in public health units and flood-prone areas. These results highlight the importance of drainage improvements, which mitigate the severe newborn health consequences by 66%.
