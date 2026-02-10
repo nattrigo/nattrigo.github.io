@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: PhD in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -184,5 +184,5 @@ interests:
 ---
 
 ## About Me
-I am a PhD Candidate in Economics at EPGE Brazilian School of Economics and Finance (FGV EPGE). 
+I received my PhD in Economics from EPGE Brazilian School of Economics and Finance (FGV EPGE) in February 2026.
  
