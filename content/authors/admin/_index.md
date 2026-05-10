@@ -24,8 +24,8 @@ role: PhD in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: FGV EPGE Brazilian School of Economics and Finance 
-    url: https://epge.fgv.br/
+  - name: Departament of Economics, UEL
+   #url: https://epge.fgv.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -184,5 +184,5 @@ interests:
 ---
 
 ## About Me
-I received my PhD in Economics from EPGE Brazilian School of Economics and Finance (FGV EPGE) in February 2026.
+Assistant Professor at the Department of Economics (UEL). I received my PhD in Economics from EPGE Brazilian School of Economics and Finance (FGV EPGE) in February 2026.
  
