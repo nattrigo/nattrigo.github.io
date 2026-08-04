@@ -47,9 +47,9 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
-        Joint work with Raphael Corbi and Francisco Costa. 
-        
-        Joint work with Andrea Flores, Jordana Menezes, Helena Zahar.
+        - Joint work with Raphael Corbi and Francisco Costa. 
+
+        - Joint work with Andrea Flores, Jordana Menezes, Helena Zahar.
     design:
       columns: '1'
  # - block: markdown
