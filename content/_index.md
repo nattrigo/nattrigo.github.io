@@ -41,6 +41,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: Work in Progress
+      subtitle: ''
+      text: |-
+        - Joint work with Raphael Corbi and Francisco Costa
+
+        - Intrahousehold Welfare Inequality: The Role of Family Institutions and Laws (with Andrea Flores, Jordana Menezes, and Helena Zahar)
+    design:
+      columns: '1'
  # - block: markdown
     #content:
      # title: '📚 My Research'
