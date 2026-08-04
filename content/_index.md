@@ -42,16 +42,16 @@ sections:
     design:
       view: citation
 
-  - block: collection
+  - block: markdown
     content:
       title: Work in Progress
-      text: ""
-      filters:
-        folders:
-          - research-wip
-        exclude_featured: false
+      subtitle: ''
+      text: |-
+        **Natália Trigo**. *Joint work with Raphael Corbi and Francisco Costa*. Work in progress.
+
+        **Natália Trigo**, Andrea Flores, Jordana Menezes, Helena Zahar. *Intrahousehold Welfare Inequality: The Role of Family Institutions and Laws*. Work in progress.
     design:
-      view: citation
+      columns: '1'
  # - block: markdown
     #content:
      # title: '📚 My Research'
