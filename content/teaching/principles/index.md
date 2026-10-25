@@ -1,6 +1,6 @@
 ---
 title: Principles of Economics
-summary:  Undergraduate course - Introduction to Microeconomics and Macroeconomics Foundations (1-year course)
+summary: Professor, UEL (1-year Undergraduate course)
 date: 2026-05-01
 type: docs
 math: false
