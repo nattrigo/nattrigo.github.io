@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: vista.jpg
+          filename: floresta.jpg
           #darker_praia_gibi.jpg # this is the image backgroup
           filters:
             brightness: 0.0
